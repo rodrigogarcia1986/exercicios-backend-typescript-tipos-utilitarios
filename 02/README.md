@@ -8,11 +8,11 @@ No arquivo `scripts.ts` foi implementado um tipo para ser usado nas funções qu
 
 Como precisamos manter a integridade do projeto e o tipo já foi usado em outras funções no projeto, implemente um novo tipo, partindo do atual e adicione uma propriedade `endereco` que receberá um objeto com o formato abaixo e manipule o tipo da propriedade `tipoTransacao` para aceitar apenas caracteres minúsculos.
 
--   cep
--   rua
--   bairro
--   cidade
--   estado
+- cep
+- rua
+- bairro
+- cidade
+- estado
 
 Não é necessário transpilar o código.
 
@@ -24,9 +24,9 @@ Faça commit do resultado.
 
 Preencha a checklist para finalizar o exercício:
 
--   [ ] Resolver o exercício revendo a aula se necessário
--   [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
--   [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
--   [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
+- [x] Resolver o exercício revendo a aula se necessário
+- [x] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [x] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [x] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
 
 ###### tags: `backend` `typescript` `exercicio` `nodeJS` `JavaScript`
